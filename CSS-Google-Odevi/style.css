@@ -1,0 +1,42 @@
+*{
+    text-align: center;
+    margin-top:5px;
+}
+
+.arama{
+    background-color:#EEEEEE;
+    width: 730px;
+    height: 100px;
+    margin-left: 380px;
+}
+#arama{
+    margin-left: 245px;
+    display: flex;
+    width: 230px;
+}
+#btn{
+    margin-top: 2px;
+}
+div{
+    background-color: #62B3AA;
+}
+
+.article2{
+    margin-left: 380px;
+}
+.kutu{
+    margin: 2px;
+    padding: 20px;
+    width: 200px;
+    height: 100px;
+    float: left;
+    display: flex;
+    flex-direction: column;
+}
+.kutu a{
+    margin-top: auto;
+}
+
+footer{
+    margin-top: 180px;
+}
